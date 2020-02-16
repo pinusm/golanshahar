@@ -1,0 +1,89 @@
+[menu_title]
+other = "תפריט ראשי"
+
+[menu_home]
+other = "בית"
+
+[menu_mobile]
+other = "תפריט"
+
+[pager_next]
+other = "הבא"
+
+[pager_prev]
+other = "קודם"
+
+[taxo_tags]
+other = "תגים"
+
+[last_mod]
+other = "עודכן לאחרונה:"
+
+[created]
+other = "נוצר:"
+
+[search_placeholder]
+other = "חיפוש"
+
+[search_title]
+other = "אנא הזינו מילים לחיפוש."
+
+[string_at]
+other = "ב"
+
+[string_by]
+other = "לפי"
+
+[string_follow]
+other = "עקוב"
+
+[string_in]
+other = "ב"
+
+[string_on]
+other = "על"
+
+[string_recent_content]
+other = "נוסף לאחרונה"
+
+[contact_js]
+other = "You must have Javascript enabled to use this contact form."
+
+[contact_submitted]
+other = "הודעתך נשלחה."
+
+[contact_error]
+other = "חלה שגיאה בשליחת ההודעה."
+
+[contact_name]
+other = "שם"
+
+[contact_name_placeholder]
+other = "השם שלך"
+
+[contact_mail]
+other = "כתובת מייל"
+
+[contact_mail_placeholder]
+other = "כתובת המייל שלך"
+
+[contact_subject]
+other = "נושא"
+
+[contact_subject_placeholder]
+other = "נושא ההודעה"
+
+[contact_message]
+other = "הודעה"
+
+[contact_message_placeholder]
+other = "תוכן ההודעה.."
+
+[contact_submit]
+other = "שלח הודעה"
+
+[contact_honypot]
+other = "דלגו אם אתם בני אדם"
+
+[lang_select_title]
+other = "בחירת שפה"

@@ -1,17 +1,19 @@
 ---
-title: "Hugo Zen theme"
-baseURL: "https://example.org/"
-theme: "zen"
+title: "Golan Shahar, Ph.D"
+baseURL: "https://golanshahar.netlify.com/"
+theme: "hugo-theme-zen"
 languageCode: "en-GB"
 defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: true
 pluralizelisttitles: false
 removePathAccents: true
 paginate: 10
 paginatePath: "page"
 rssLimit: 20
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 author:
-  name: "Your Name"
-  url: "https://example.org/somepage"
+  name: "Golan Shahar"
+  url: "https://golanshahar.netlify.com/"
   avatar: "path/to/some-image.jpg"
 
 outputs:
@@ -21,18 +23,37 @@ outputs:
 params:
   contact: "info@example.org"
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
-  description: "The zen theme for Hugo example site."
+  description: "Golan Shahar's Personal Website."
   dateformat: "2 January, 2006"
   favicon: "icon-64.png"
   feedlinks: true
-  footer: "Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
   icon: "apple-touch-icon-180.png"
   image: "apple-touch-icon-180.png"
   imageMaxWidth: 400
   jquery: true
   mobileMenu: true
-  poweredby: false
   search: true
   searchSize: 20
   sidebar: true
   submitted: true
+  languageDir: "ltr"           # Set ltr or rtl, defaults to ltr.
+  logo: true               # Turn off the logo.
+  mainSections:             # The sections you want to have listed on the front page.
+    - "section1"            # Default to the section with most content if not set.
+    - "section2"            # Set to empty if no section should be listed.
+  microUsername: ""         # Your micro.blog username.
+  piwikSiteId:              # Matamo site id
+  piwikTrackerUrl: ""       # Matamo url, schemaless and no slash on end (example.org/matamo).
+  poweredby: true           # Show powered by hugo in footer
+  realfavicongenerator:     # If full set of favicons, site manifest etc. exists, default false.
+
+languages:
+  en:
+    weight: 1
+    languageName: "English"
+  he:
+    weight: 2
+    languageName: "עברית"
+    params:
+      dir: "rtl"
+    title: "ד\"ר גולן שחר"

@@ -1,0 +1,60 @@
+{
+    "version" : "https://jsonfeed.org/version/1",
+    "title" : "Documentation on Golan Shahar, Ph.D",
+    "description": "Recent content in Documentation on Golan Shahar, Ph.D",
+    "home_page_url" : "/",
+    "feed_url" : "/documentation/index.json",
+    "icon" : "/apple-touch-icon-180.png",
+    "favicon" : "/icon-64.png",
+    "author" : {
+        "name" : "Golan Shahar",
+        "url": "https://golanshahar.netlify.com/",
+        "avatar": "/path/to/some-image.jpg"
+    },
+    "items" : [
+    {
+        "title" : "Configuration",
+        "date_published" : "0001-01-01T00:00:00Z",
+        "date_modified" : "0001-01-01T00:00:00Z",
+        "id" : "/documentation/configuration/",
+        "url" : "/documentation/configuration/",
+        "author" : {
+          "name" : "Fredrik Jonsson"
+        },
+        "content_html" : ""
+    },
+    {
+        "title" : "Create a theme",
+        "date_published" : "0001-01-01T00:00:00Z",
+        "date_modified" : "0001-01-01T00:00:00Z",
+        "id" : "/documentation/create-theme/",
+        "url" : "/documentation/create-theme/",
+        "author" : {
+          "name" : "Fredrik Jonsson"
+        },
+        "content_html" : ""
+    },
+    {
+        "title" : "Installation",
+        "date_published" : "0001-01-01T00:00:00Z",
+        "date_modified" : "0001-01-01T00:00:00Z",
+        "id" : "/documentation/install/",
+        "url" : "/documentation/install/",
+        "author" : {
+          "name" : "Fredrik Jonsson"
+        },
+        "content_html" : ""
+    },
+    {
+        "title" : "Quickstart",
+        "date_published" : "0001-01-01T00:00:00Z",
+        "date_modified" : "0001-01-01T00:00:00Z",
+        "id" : "/documentation/quickstart/",
+        "url" : "/documentation/quickstart/",
+        "author" : {
+          "name" : "Fredrik Jonsson"
+        },
+        "content_html" : ""
+    }
+    ]
+}
