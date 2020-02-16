@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Golan Shahar, Ph.D</title>
+    <title>R על ד&#34;ר גולן שחר</title>
     <link>/categories/r/</link>
-    <description>Recent content in R on Golan Shahar, Ph.D</description>
+    <description>נוסף לאחרונה ב R על ד&#34;ר גולן שחר</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
+    <language>he-IL</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     <atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     

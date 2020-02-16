@@ -13,6 +13,17 @@
     },
     "items" : [
     {
+        "title" : "Hello R Markdown",
+        "date_published" : "2015-07-23T21:13:14-05:00",
+        "date_modified" : "2015-07-23T21:13:14-05:00",
+        "id" : "/he/post/2015-07-23-r-rmarkdown/",
+        "url" : "/he/post/2015-07-23-r-rmarkdown/",
+        "author" : {
+          "name" : "Frida Gomam"
+        },
+        "content_html" : "\r\n\r\n\r\n\u003cdiv id=\"r-markdown\" class=\"section level1\"\u003e\r\n\u003ch1\u003eR Markdown\u003c/h1\u003e\r\n\u003cp\u003eThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see \u003ca href=\"http://rmarkdown.rstudio.com\" class=\"uri\"\u003ehttp://rmarkdown.rstudio.com\u003c/a\u003e.\u003c/p\u003e\r\n\u003cp\u003eYou can embed an R code chunk like this:\u003c/p\u003e\r\n\u003cpre class=\"r\"\u003e\u003ccode\u003esummary(cars)\r\n##      speed           dist       \r\n##  Min.   : 4.0   Min.   :  2.00  \r\n##  1st Qu.:12.0   1st Qu.: 26.00  \r\n##  Median :15.0   Median : 36.00  \r\n##  Mean   :15.4   Mean   : 42.98  \r\n##  3rd Qu.:19.0   3rd Qu.: 56.00  \r\n##  Max.   :25.0   Max.   :120.00\r\nfit \u0026lt;- lm(dist ~ speed, data = cars)\r\nfit\r\n## \r\n## Call:\r\n## lm(formula = dist ~ speed, data = cars)\r\n## \r\n## Coefficients:\r\n## (Intercept)        speed  \r\n##     -17.579        3.932\u003c/code\u003e\u003c/pre\u003e\r\n\u003c/div\u003e\r\n\u003cdiv id=\"including-plots\" class=\"section level1\"\u003e\r\n\u003ch1\u003eIncluding Plots\u003c/h1\u003e\r\n\u003cp\u003eYou can also embed plots. See Figure \u003ca href=\"#fig:pie\"\u003e1\u003c/a\u003e for example:\u003c/p\u003e\r\n\u003cpre class=\"r\"\u003e\u003ccode\u003epar(mar = c(0, 1, 0, 1))\r\npie(\r\n  c(280, 60, 20),\r\n  c(\u0026#39;Sky\u0026#39;, \u0026#39;Sunny side of pyramid\u0026#39;, \u0026#39;Shady side of pyramid\u0026#39;),\r\n  col = c(\u0026#39;#0292D8\u0026#39;, \u0026#39;#F7EA39\u0026#39;, \u0026#39;#C4B632\u0026#39;),\r\n  init.angle = -50, border = NA\r\n)\u003c/code\u003e\u003c/pre\u003e\r\n\u003cdiv class=\"figure\"\u003e\u003cspan id=\"fig:pie\"\u003e\u003c/span\u003e\r\n\u003cimg src=\"/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png\" alt=\"A fancy pie chart.\" width=\"672\" /\u003e\r\n\u003cp class=\"caption\"\u003e\r\nFigure 1: A fancy pie chart.\r\n\u003c/p\u003e\r\n\u003c/div\u003e\r\n\u003c/div\u003e\r\n"
+    },
+    {
         "title" : "About",
         "date_published" : "0001-01-01T00:00:00Z",
         "date_modified" : "0001-01-01T00:00:00Z",
@@ -24,11 +35,55 @@
         "content_html" : ""
     },
     {
+        "title" : "Configuration",
+        "date_published" : "0001-01-01T00:00:00Z",
+        "date_modified" : "0001-01-01T00:00:00Z",
+        "id" : "/he/documentation/configuration/",
+        "url" : "/he/documentation/configuration/",
+        "author" : {
+          "name" : "Fredrik Jonsson"
+        },
+        "content_html" : ""
+    },
+    {
         "title" : "Contact",
         "date_published" : "0001-01-01T00:00:00Z",
         "date_modified" : "0001-01-01T00:00:00Z",
         "id" : "/he/contact/",
         "url" : "/he/contact/",
+        "author" : {
+          "name" : "Fredrik Jonsson"
+        },
+        "content_html" : ""
+    },
+    {
+        "title" : "Create a theme",
+        "date_published" : "0001-01-01T00:00:00Z",
+        "date_modified" : "0001-01-01T00:00:00Z",
+        "id" : "/he/documentation/create-theme/",
+        "url" : "/he/documentation/create-theme/",
+        "author" : {
+          "name" : "Fredrik Jonsson"
+        },
+        "content_html" : ""
+    },
+    {
+        "title" : "Installation",
+        "date_published" : "0001-01-01T00:00:00Z",
+        "date_modified" : "0001-01-01T00:00:00Z",
+        "id" : "/he/documentation/install/",
+        "url" : "/he/documentation/install/",
+        "author" : {
+          "name" : "Fredrik Jonsson"
+        },
+        "content_html" : ""
+    },
+    {
+        "title" : "Quickstart",
+        "date_published" : "0001-01-01T00:00:00Z",
+        "date_modified" : "0001-01-01T00:00:00Z",
+        "id" : "/he/documentation/quickstart/",
+        "url" : "/he/documentation/quickstart/",
         "author" : {
           "name" : "Fredrik Jonsson"
         },

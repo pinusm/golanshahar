@@ -3,21 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/he/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="/he/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>/he/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,40 +12,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="/he/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>/he/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="/he/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>/he/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="/he/"
-                />
-  </url>
-  
-  <url>
-    <loc>/he/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,7 +26,49 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="/he/tags/"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="/contact/"
                 />
   </url>
   

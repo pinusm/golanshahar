@@ -1,9 +1,9 @@
 ---
-author: Fredrik Jonsson
-title: Make the Web Fun Again
+author: Golan Shahar
+title: Hello
 ---
 
-# Hugo
+# Hello
 
 ## Make the Web Fun Again
 

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation על ד&#34;ר גולן שחר</title>
+    <link>/he/documentation/</link>
+    <description>נוסף לאחרונה ב Documentation על ד&#34;ר גולן שחר</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he-IL</language>
+    <atom:link href="/he/documentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Configuration</title>
+      <link>/he/documentation/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/he/documentation/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create a theme</title>
+      <link>/he/documentation/create-theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/he/documentation/create-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>/he/documentation/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/he/documentation/install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quickstart</title>
+      <link>/he/documentation/quickstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/he/documentation/quickstart/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

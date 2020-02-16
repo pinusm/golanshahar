@@ -1,4 +1,5 @@
 ---
-author: Fredrik Jonsson
-title: Contact
+title: צרו קשר
 ---
+
+כאן יפורטו הדרכים ליצירת קשר

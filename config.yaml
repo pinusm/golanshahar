@@ -2,9 +2,9 @@
 title: "Golan Shahar, Ph.D"
 baseURL: "https://golanshahar.netlify.com/"
 theme: "hugo-theme-zen"
-languageCode: "en-GB"
-defaultContentLanguage: "en"
-defaultContentLanguageInSubdir: true
+languageCode: "he-IL"
+defaultContentLanguage: "he"
+defaultContentLanguageInSubdir: false 
 pluralizelisttitles: false
 removePathAccents: true
 paginate: 10
@@ -32,15 +32,13 @@ params:
   imageMaxWidth: 400
   jquery: true
   mobileMenu: true
-  search: true
+  search: false
   searchSize: 20
   sidebar: true
-  submitted: true
-  languageDir: "ltr"           # Set ltr or rtl, defaults to ltr.
+  submitted: false
+  languageDir: "rtl"         # Set ltr or rtl, defaults to ltr.
   logo: true               # Turn off the logo.
-  mainSections:             # The sections you want to have listed on the front page.
-    - "section1"            # Default to the section with most content if not set.
-    - "section2"            # Set to empty if no section should be listed.
+  mainSections: ""          # The sections you want to have listed on the front page. Default to the section with most content if not set. Set to empty if no section should be listed.
   microUsername: ""         # Your micro.blog username.
   piwikSiteId:              # Matamo site id
   piwikTrackerUrl: ""       # Matamo url, schemaless and no slash on end (example.org/matamo).
@@ -48,13 +46,15 @@ params:
   footer: "Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
 
 languages:
-  en:
-    weight: 1
-    languageName: "English"
   he:
-    weight: 2
+    weight: 1
     languageName: "עברית"
     params:
       dir: "rtl"
     title: "ד\"ר גולן שחר"
-    footer: "<span dir="ltr">Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen).</span>"
+    footer: "נבנה באמצעות [Hugo](https://gohugo.io/) עם תבנית [Zen](https://github.com/frjo/hugo-theme-zen)."
+  en:
+    weight: 2
+    languageName: "English"
+    params:
+      dir: "ltr"

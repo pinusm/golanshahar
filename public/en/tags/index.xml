@@ -5,33 +5,8 @@
     <link>/en/tags/</link>
     <description>Recent content in Tags on Golan Shahar, Ph.D</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <language>he-IL</language>
     <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>plot</title>
-      <link>/en/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/en/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/en/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/en/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>/en/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/en/tags/regression/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

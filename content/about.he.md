@@ -1,4 +1,3 @@
 ---
-author: Fredrik Jonsson
-title: About
+title: אודות
 ---
