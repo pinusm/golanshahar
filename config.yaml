@@ -44,8 +44,8 @@ params:
   microUsername: ""         # Your micro.blog username.
   piwikSiteId:              # Matamo site id
   piwikTrackerUrl: ""       # Matamo url, schemaless and no slash on end (example.org/matamo).
-  poweredby: true           # Show powered by hugo in footer
   realfavicongenerator:     # If full set of favicons, site manifest etc. exists, default false.
+  footer: "Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
 
 languages:
   en:
@@ -57,3 +57,4 @@ languages:
     params:
       dir: "rtl"
     title: "ד\"ר גולן שחר"
+    footer: "<span dir="ltr">Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen).</span>"
