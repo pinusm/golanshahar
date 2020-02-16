@@ -1,5 +1,5 @@
 theme = "hugo-theme-zen"
-baseURL = "/"
+baseURL = "https://golanshahar.netlify.com/"
 languageCode = "en-us"
 title = "Golan Shahar, Ph.D"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
