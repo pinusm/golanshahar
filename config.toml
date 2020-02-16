@@ -1,0 +1,5 @@
+theme = "hugo-theme-zen"
+baseURL = "/"
+languageCode = "en-us"
+title = "Golan Shahar, Ph.D"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
