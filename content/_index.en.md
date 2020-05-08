@@ -1,22 +1,15 @@
 ---
 author: Golan Shahar
-title: Hello
+title: Golan Shahar - Landing page
 ---
 
-# Hello
+# About
 
-## Make the Web Fun Again
+I am Golan Shahar, a clinical-health and developmental-health psychologist and a translational stress/health researcher. I serves as Professor of Psychology at Ben-Gurion University of the Negev, visiting Professor of Psychiatry at Yale University School of Medicine, and an affiliated faculty member of the Edward Ziegler Center in Child Development and Social Policy. 
 
-Introducing Hugo, a new idea for making website creation simple again. Hugo works flexibly with many formats, and is ideal for blogs, docs, portfolios and much more. Hugo’s speed fosters creativity—it makes building a website fun again.
+I treat and research stress, psychopathology, psychosomatic conditions, and resilience, with a focus on adolescence and early adulthood.
+My research was funded by competetive research grants in Israel and the United States, and was published in the most prestigious journals in psychology, psychiatry, and pediatrics.
 
-## Run Anywhere
+In 2015 I published a book with Oxford University Press, where I proposesd a novel theory of self-criticism and criticism-based relationships. I am currently working on a second book, dealing with complex and resistant depression.
 
-Hugo is quite possibly the easiest software to install you’ve ever used: simply download and run! Hugo doesn’t depend on administrative privileges, databases, runtimes, interpreters or external libraries. Sites built with Hugo can be deployed on S3, GitHub Pages, Dropbox or any web host.
-
-## Fast & Powerful
-
-Hugo is designed for speed and performance. Great care has been taken to ensure build time with Hugo is as short as possible. We’re talking milliseconds to build your entire site—for most setups!
-
-## Flexible
-
-Hugo is designed to work the way you do. Organize your content however you want with any URL structure. Group your content using your own indexes and categories. Define your own metadata in any format: YAML, TOML or JSON. Best of all, Hugo handles all these variations with virtually no configuration. Hugo just works.
+Alongside my clinical and academic work, I frequently give consultations and presentations to health and private institutes, about mental and phisycal health, stress, burnout, and mental resilience.
