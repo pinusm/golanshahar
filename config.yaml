@@ -14,7 +14,7 @@ ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 author:
   name: "Golan Shahar"
   url: "https://golanshahar.netlify.com/"
-  avatar: "path/to/some-image.jpg"
+  avatar: "static/images/Golan.jpg"
 
 outputs:
   home: ["HTML","RSS", "JSON"]
