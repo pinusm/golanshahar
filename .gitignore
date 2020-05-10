@@ -6,3 +6,4 @@ blogdown
 Thumbs.db
 public/ # if using Netlify
 themes2
+public/
