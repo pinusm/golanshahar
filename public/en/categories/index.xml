@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Golan Shahar, Ph.D</title>
-    <link>/en/categories/</link>
+    <link>https://golanshahar.netlify.com/en/categories/</link>
     <description>Recent content in Categories on Golan Shahar, Ph.D</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>he-IL</language>
-    <atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://golanshahar.netlify.com/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

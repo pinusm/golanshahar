@@ -3,72 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/about/</loc>
+    <loc>https://golanshahar.netlify.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="/about/"
+                href="https://golanshahar.netlify.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="https://golanshahar.netlify.com/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>/en/categories/</loc>
+    <loc>https://golanshahar.netlify.com/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="/categories/"
+                href="https://golanshahar.netlify.com/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://golanshahar.netlify.com/en/contact/"
                 />
   </url>
   
   <url>
-    <loc>/en/contact/</loc>
+    <loc>https://golanshahar.netlify.com/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="/contact/"
+                href="https://golanshahar.netlify.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/contact/"
+                href="https://golanshahar.netlify.com/en/"
                 />
   </url>
   
   <url>
-    <loc>/en/</loc>
+    <loc>https://golanshahar.netlify.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="/"
+                href="https://golanshahar.netlify.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/"
+                href="https://golanshahar.netlify.com/en/tags/"
                 />
   </url>
   

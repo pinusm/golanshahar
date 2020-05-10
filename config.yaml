@@ -1,10 +1,10 @@
 ---
 title: "Golan Shahar, Ph.D"
 baseURL: "https://golanshahar.netlify.com/"
-theme: "hugo-theme-zen"
+theme: "zen"
 languageCode: "he-IL"
 defaultContentLanguage: "he"
-defaultContentLanguageInSubdir: false 
+defaultContentLanguageInSubdir: false
 pluralizelisttitles: false
 removePathAccents: true
 paginate: 10

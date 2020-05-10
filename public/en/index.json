@@ -1,31 +1,23 @@
 {
     "version" : "https://jsonfeed.org/version/1",
-    "title" : "Hello on Golan Shahar, Ph.D",
-    "description": "Recent content in Hello on Golan Shahar, Ph.D",
-    "home_page_url" : "/",
-    "feed_url" : "/en/index.json",
-    "icon" : "/apple-touch-icon-180.png",
-    "favicon" : "/icon-64.png",
+    "title" : "Golan Shahar - Landing page on Golan Shahar, Ph.D",
+    "description": "Recent content in Golan Shahar - Landing page on Golan Shahar, Ph.D",
+    "home_page_url" : "https://golanshahar.netlify.com/",
+    "feed_url" : "https://golanshahar.netlify.com/en/index.json",
+    "icon" : "https://golanshahar.netlify.com/apple-touch-icon-180.png",
+    "favicon" : "https://golanshahar.netlify.com/icon-64.png",
     "author" : {
         "name" : "Golan Shahar",
         "url": "https://golanshahar.netlify.com/",
-        "avatar": "/path/to/some-image.jpg"
+        "avatar": "https://golanshahar.netlify.com/path/to/some-image.jpg"
     },
     "items" : [
-    {
-        "title" : "About",
-        "date_published" : "0001-01-01T00:00:00Z",
-        "date_modified" : "0001-01-01T00:00:00Z",
-        "id" : "/en/about/",
-        "url" : "/en/about/",
-        "content_html" : ""
-    },
     {
         "title" : "Contact",
         "date_published" : "0001-01-01T00:00:00Z",
         "date_modified" : "0001-01-01T00:00:00Z",
-        "id" : "/en/contact/",
-        "url" : "/en/contact/",
+        "id" : "https://golanshahar.netlify.com/en/contact/",
+        "url" : "https://golanshahar.netlify.com/en/contact/",
         "content_html" : "\u003cp\u003eHere we\u0026rsquo;ll list contact info\u003c/p\u003e\n"
     }
     ]
