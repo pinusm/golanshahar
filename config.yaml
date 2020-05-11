@@ -27,32 +27,32 @@ params:
   dateformat: "2 January, 2006"
   favicon: "icon-64.png"
   feedlinks: true
+  footer: "Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
   icon: "apple-touch-icon-180.png"
   image: "apple-touch-icon-180.png"
   imageMaxWidth: 400
-  jquery: true
+# jquery: true
   mobileMenu: true
   search: false
   searchSize: 20
   sidebar: true
   submitted: false
-  languageDir: "rtl"         # Set ltr or rtl, defaults to ltr.
+  languageDirection: "rtl"         # Set ltr or rtl, defaults to ltr.
   logo: true               # Turn off the logo.
   mainSections: ""          # The sections you want to have listed on the front page. Default to the section with most content if not set. Set to empty if no section should be listed.
   microUsername: ""         # Your micro.blog username.
   piwikSiteId:              # Matamo site id
   piwikTrackerUrl: ""       # Matamo url, schemaless and no slash on end (example.org/matamo).
-  realfavicongenerator:     # If full set of favicons, site manifest etc. exists, default false.
-  footer: "Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
+  realfavicongenerator: true     # If full set of favicons, site manifest etc. exists, default false.
 
 languages:
   he:
     weight: 1
     languageName: "עברית"
-    languageDir: "rtl"
+    languageDirection: "rtl"
     title: "ד\"ר גולן שחר"
     footer: "נבנה באמצעות [Hugo](https://gohugo.io/) עם תבנית [Zen](https://github.com/frjo/hugo-theme-zen)."
   en:
     weight: 2
     languageName: "English"
-    languageDir: "ltr"
+    languageDirection: "ltr"
