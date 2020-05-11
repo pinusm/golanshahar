@@ -31,7 +31,6 @@ params:
   icon: "apple-touch-icon-180.png"
   image: "apple-touch-icon-180.png"
   imageMaxWidth: 400
-# jquery: true
   mobileMenu: true
   search: false
   searchSize: 20
