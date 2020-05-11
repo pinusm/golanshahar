@@ -49,12 +49,10 @@ languages:
   he:
     weight: 1
     languageName: "עברית"
-    params:
-      dir: "rtl"
+    languageDir: "rtl"
     title: "ד\"ר גולן שחר"
     footer: "נבנה באמצעות [Hugo](https://gohugo.io/) עם תבנית [Zen](https://github.com/frjo/hugo-theme-zen)."
   en:
     weight: 2
     languageName: "English"
-    params:
-      dir: "ltr"
+    languageDir: "ltr"
